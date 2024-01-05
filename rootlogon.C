@@ -1,0 +1,3 @@
+{
+  gStyle->SetOptStat(0);
+}
